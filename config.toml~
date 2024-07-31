@@ -1,7 +1,0 @@
-baseURL = 'http://fabiocolacio.xyz/'
-languageCode = 'en-us'
-title = 'fabiocolacio.xyz'
-theme = 'Fabio'
-
-[markup.highlight]
-	style = "borland"
