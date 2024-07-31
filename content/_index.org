@@ -1,0 +1,17 @@
+#+Title: Fábio's World 🌎
+
+* Hello! 👋🏼
+
+I'm Fábio! I'm a Software Engineer based in sunny Southern California!
+
+#+attr_html: :class centered-image
+#+attr_html: :width 75%
+[[file:/me-cropped.png]]
+
+I like good coffee, reading, baking, traveling, and playing classical
+guitar.
+
+This website is a space for me to talk about whatever is rattling
+around in my head. It will likely contain a mix of posts about tech,
+philosophy, and social issues, as well as any projects I am working
+on.

@@ -1,0 +1,176 @@
+#+title: Blind Accessibility in Japan
+#+author: Fabio Colacio
+#+date: 2024-03-26
+#+tags[]: travel accessibility blindness
+
+I recently travelled to Tokyo, Japan, and was was amazed by how
+accessible it was for the blind and visually impaired! Here I will
+share my experiences traveling in Tokyo as a visually impaired person.
+
+* Public Transportation
+
+The train system made the biggest impact to the overal accessibility
+in Japan and I was impressed! The trains are fast, effective, and easy to
+use, and the rail system had very good coverage of everywhere I needed
+to go.
+
+Using the trains it seems I can go just about anywhere whether it
+is a short distance or a long distance away. When navigating the Tokyo
+prefecture, there is always a train station in walking distance from
+me and the trains come by very frequently. The trains for shorter
+distance travel within the Tokyo prefecture arrive every 2 minutes!
+
+Since the trains depart so frequently, there is minimal planning
+required. This makes trips involving transfers to a second or third
+train very seamless; you don't have to worry about waiting long for
+a train in another leg of the journey. Longer distance trains arrived
+less frequently, but not by much. I can't recall ever waiting more
+than 15 minutes for a train (though I only made two daytrips out of
+Tokyo).
+
+#+begin_quote
+*Context:* In Southern California where I live, there are many areas
+that are completely inaccessible by public transportation. Each city
+has a different transportation system with different levels of
+reliability. On most routes, the busses arrive once per hour. Because
+of the long wait times, you will find trips involving transfers to
+other busses will balloon travel time significantly. Travelling to an
+adjacent city takes me at least an hour and half: a distance that is
+quite small and would take about 15 minutes by car.
+#+end_quote
+
+** Payment Methods
+
+There are a few payment options for the trains in Japan. When you
+arrive at the station, you can buy a ticket with cash using the
+machines at the entrance. The ticket machines have braille and spoken
+content to make them more accessible for the visually impaired. Many
+stations also have a service desk where you can buy tickets from an
+attendant. You can also get a Suica card which can be loaded with
+money to pay for trips.
+
+I opted to add a digital Suica card into my Apple Wallet. This allowed
+me to tap my phone at the turnstyle to enter and exit the stations. I
+could load money into my Suica account with other cards in my apple
+wallet whenever I wanted to. The fare was automatically calculated and
+deducted from my card when I tapped my phone at the turnstyle to exit
+the station at my destination. Additionally, I can see my current
+balance, the receipts of each train journey I've taken, and a map
+showing where I entered and exited the train for that journey all from
+the Wallet app.
+
+You can use Suica for most travel. The one exception is with
+longer distance travel with reserved seats. In these cases, you need
+to buy a "Super (limited) Express Train" ticket to reserve a seat on
+the train, in addition to the basic fare which can be payed with
+Suica.
+
+** Fare Prices
+
+In terms of the cost, I found trains to be very affordable. The median
+amount I payed per trip in my 10 days in Tokyo was ¥178 which equates
+to $1.18 USD at the time of writing. When I traveled to Kamakura (a 40
+mile journey, taking about an hour), I payed ¥945, equivalent to $6.24.
+
+#+begin_quote
+*Context:* The bus fare in my city is a $1.25 flat fee, and costs as
+much as $2.50 in some adjacent cities. The fee must be payed again for
+every bus you board regardless of distance traveled. If I route a trip
+to a nearby city (half the distance as my Kamakura trip), the
+trips routed by my phone are 3 hours long. They use between 3 and 6
+busses, costing between $5.25 and $8.50 in total. Thats a trip that
+takes 3 times as long for half the distance!
+#+end_quote
+
+** Train Station Accessibility
+
+Train stations are well-designed with many accessibility features
+ensure they are easy to navigate for the blind.
+
+*** Tenji Blocks
+
+In many parts of Tokyo, including every trainstation I've been to,
+there are tactile yellow /Tenji Blocks/ on the floor. The bright
+yellow color makes the blocks easy to see for people with low vision
+(and for guide dogs to recognize), and the tactile patterns make them
+accessible for us to feel with our canes or under our feet.
+
+#+attr_html: :title Tenji Blocks
+#+attr_html: :alt Dotted Tenji blocks with two paths of lined Tenji blocks branching out of them.
+#+caption: Image Credit: [[https://commons.wikimedia.org/wiki/File:Tenji-block.JPG][Haragayoto]], [[https://creativecommons.org/licenses/by-sa/2.5/deed.en][CC BY-SA 2.5]]
+[[file:/tenjiblock.jpg]]
+
+Blocks with truncated domes (dots) are warnings that indicate a change
+ahead such as the end of a train platform or a street crossing.
+
+There are also blocks with straight parallel lines, which indicate a
+path you can walk along. I found these lined blocks to be extremely
+useful! They allow you to travel with the flow of foot traffic and
+feel the tenji blocks underfoot to know when a path could branch into
+multiple areas. I was impressed by the
+usefulness of these blocks. Without these, a white cane user with more severe
+vision loss would have to stay close to the walls and feel for
+openings or branching paths in addition to using auditory information
+to orient themselves. This method can be challening in areas that are
+very large with many connecting areas, especially if there has a lot
+of foot traffic (like a train station!).
+
+*** Auditory Cues
+
+In the train station, there are many sounds going on all the time that
+the average traveller might dismiss or ignore, but these signals
+convey important information to help the blind navigate.
+
+When you enter or exit the train station, a "ding-dong" sound
+indicates the location of the ticket gates.
+
+Many stations also have a bird chirping sound which indicates the
+location of the stairs to the train platform.
+
+At the train platform there are announcements about the trains
+arriving in Japanese and English so you can know if it is the correct
+train.
+
+There is also the Hassha Merodi: the train departure melody. This is a
+melody that plays when the train arrives at the platform and opens the
+doors. The melody indicates that people can enter or exit the train,
+and a few seconds after the melody stops, the doors will close. A fun
+part of the Hassha Merodi is that most stations have a unique melody
+so you can hear a different one at each location. The [[https://www.straitstimes.com/asia/east-asia/the-man-behind-japans-train-departure-melodies][composer]] (former
+keyboardist for Caseopia) wrote over 170 of these melodies!
+
+While on the trains themselves, the train says the name of each stop
+out loud in Japanese and in English as well as displaying it on a
+screen overhead.
+
+*** Braille
+
+Braille is very common in Japan. Ticket machines, train seat numbers,
+vending machines, signs and maps, and even buttons on their toilets
+all have braille on them.  There  was even braille on the handrails for
+the stairs at the train platform. The braille on these handrails
+indicate information about the platform you are entering, conveying
+the same information that is on an overhead sign above the stairs.
+
+#+attr_html: :title Braille Handrail
+#+attr_html: :alt A handrail with braille messages on it.
+#+caption: Image Credit: [[https://commons.wikimedia.org/wiki/File:Braille_handrail_in_Japan_2009.jpg][Christian Heilmann]], [[https://creativecommons.org/licenses/by/2.0/deed.en][CC BY 2.0]]
+[[file:/braillehandrail.jpg]]
+
+* Overall Accessibility in Japan
+
+While the trains provide a higher degree of mobility to me than I've
+experienced anywhere, the accessibility features do not end there.
+
+The same well thought out designs that are applied to the train
+stations are also found everywhere when out and about in the
+city. Braille and auditory cues are very common. Tenji blocks are used
+throughout the cities. Many elevators are talking elevators which
+announce the current floor to the user when the door opens. In busy
+urban areas, the signal to cross the street has Accessible Pedestrian
+Signals (APS systems) which play a noise to denote when to cross the
+streets. Many of these APS systems also include a button that makes
+the duration of the cross signal longer.
+
+With all this said, Tokyo is without a doubt the most blind accessible
+place I've ever visited!
